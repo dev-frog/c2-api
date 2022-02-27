@@ -1,0 +1,23 @@
+{
+  "name": "c2-api",
+  "version": "1.0.0",
+  "description": "cli to clone repo",
+  "main": "index.js",
+  "bin": {
+    "c2-api": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-frog/c2-api.git"
+  },
+  "keywords": [],
+  "author": "dev-frog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-frog/c2-api/issues"
+  },
+  "homepage": "https://github.com/dev-frog/c2-api#readme"
+}
